@@ -3,7 +3,7 @@
 <html class=" js flexbox flexboxlegacy rgba multiplebgs backgroundsize borderradius boxshadow textshadow opacity cssgradients csstransforms csstransforms3d csstransitions generatedcontent svg inlinesvg" lang="en" style=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <![endif]-->
-<title>Ralph Millard / Creative Director - Product Designer</title>
+<title>乔萌的个人主页</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="author" content="Ralph Millard">
 <meta name="Description" content="Ralph Millard, Product Designer &amp; Creative Director&lt;/i&gt; based in Orlando, FL. I love working with creative people and inspiring brands.">
@@ -1936,8 +1936,8 @@ if (document.URL.indexOf("tv.sohu.com") >= 0){
   <!-- start main nav -->
   <nav id="main-nav">
     <ul id="options" class="option-set clearfix" data-option-key="filter">
-      <li> <a href="http://ralphmillard.com/#home" class="splink selected">Home</a> </li>
-      <li> <a href="http://ralphmillard.com/#contact" class="splink">Contact</a> </li>
+      <li> <a href="index.html" class="splink selected">Home</a> </li>
+      <li> <a href="myResume/myResume.html" class="splink">Contact</a> </li>
     </ul>
         <!-- <ul class="sub-nav hidden">
           <li> <a href="#portfolio">All (7)</a> </li>
@@ -1952,12 +1952,6 @@ if (document.URL.indexOf("tv.sohu.com") >= 0){
     </ul> -->
   </nav>
   <!-- end main nav -->
-  <ul class="social-list clearfix">
-    <li> <a href="https://www.linkedin.com/in/ralphmillard0330"><i class="fa fa-linkedin"></i>DDD</a></li>
-    <li> <a href="https://www.instagram.com/ralphmillard/"><i class="fa fa-instagram"></i></a> </li>
-    <li> <a href="https://twitter.com/ralphmillard"><i class="fa fa-twitter"></i></a> </li>
-    <li> <a href="https://www.facebook.com/ralphmillard"><i class="fa fa-facebook"></i></a> </li>
-  </ul>
   <div class="header-bottom">
     <p> Copyright © 2016<br>
       All rights reserved. </p>
