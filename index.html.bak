@@ -2008,7 +2008,7 @@ if (document.URL.indexOf("tv.sohu.com") >= 0){
       <div class="icon-placer"><i class="fa fa-envelope-o"></i></div>
 
     </div>
-    <div class="element  clearfix col1-3 home about grey with-link" style="position: absolute; left: 0px; top: 600px;"><a href="http://ralphmillard.com/post.html" title="" class="whole-tile">
+    <div class="element  clearfix col1-3 home about grey with-link" style="position: absolute; left: 0px; top: 600px;"><a href="myResume/myResume.html" title="" class="whole-tile">
         <h3>我&介绍</h3>
         </a><div class="bottom"><a href="myResume/myResume.html" title="" class="whole-tile"></a><a href="myResume/myResume.html" class="button"><i class=""></i> View My Resume</a></div>
       <div class="icon-placer"><i class="fa fa-twitter"></i></div>
