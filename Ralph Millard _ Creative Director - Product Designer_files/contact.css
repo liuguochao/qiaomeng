@@ -1,0 +1,20 @@
+/* Form style */
+input, textarea, select { font: 17px 'Lato', Arial, Helvetica, sans-serif; color:#c3c3c3; border:0; float:none; display:block; margin:0px; -webkit-appearance: none; background:none }
+textarea { resize: none; }
+#message { margin: 0; padding: 0px; z-index:200; height:auto; }
+.error_message, #success_page { display: block; height:auto; color:#BA3458; font-style:italic; font-family: 'Lato', Arial, Helvetica, sans-serif; font-size: 12px; padding: 16px 0px 0px 0px; line-height:1.5 }
+#success_page { color:#fff; padding:18px 20px 0 0px }
+.loader { display:none; }
+/* Form Element Styling */
+.form-part { padding: 0; position:relative; margin-top:-10px; }
+.form-part > textarea, .form-part > select, .form-part > input:not([type="submit"]):not([type="image"]):not([type="button"]):not([type="checkbox"]):not([type="radio"]) {
+ display: block;
+ width: 100%;
+ padding: 20px 0px 21px;
+ border-bottom:1px solid rgba(255,255,255,0.25);
+ font-style: normal;
+}
+.form-part > textarea:focus, .form-part > select:focus, .form-part > input:focus { color:#fff; }
+.form-part > textarea { height: 230px; resize: none; }
+.form-part > .input-wrapper { position: relative;  }
+.form-part .send-btn { display: block; color: #fff; border:solid 1px rgba(255, 255, 255, 0.25); padding: 12px 30px 13px; margin: 30px 0 10px 0; font-size:11px; font-weight:600; text-transform:uppercase; line-height:1; letter-spacing:1px; display: inline-block; border-radius:30px; -webkit-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s; z-index:1; position:relative; font-family: Lato, Helvetica, Arial, sans-serif; }
