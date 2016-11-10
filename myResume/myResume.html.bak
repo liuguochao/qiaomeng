@@ -72,11 +72,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<li>
 							<ul class="address-text">
 								<li><b>我的个人主页 </b></li>
-
+<<<<<<< HEAD
 								<li><a href="mailto:example@mail.com"> qiaomeng.portfoliobox.net/</a></li>
-
+=======
 								<li><a href="http://liuguochao.github.io/qiaomeng/"> http://liuguochao.github.io/qiaomeng/</a></li>
-
+>>>>>>> origin/gh-pages
 							</ul>
 						</li>
 						<li>
@@ -264,10 +264,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<ul class="resp-tabs-list wow fadeInUp animated" data-wow-delay=".7s">
 						<li class="resp-tab-item"><span>部分作品展示</span></li>				
 					</ul>	
-
-
+<<<<<<< HEAD
+=======
 					<div class="clearfix"> </div>	
-
+>>>>>>> origin/gh-pages
 					<div class="resp-tabs-container">
 						<div class="tab-1 resp-tab-content">
 							<div class="tab_img">
@@ -370,7 +370,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 										</a>	
 									</div>
 								</div>
-
+<<<<<<< HEAD
 								<div class="col-md-4 portfolio-grids">
 									<div class="grid">
 										<a href="images/UI (1).jpg" class="swipebox">
@@ -438,11 +438,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									</div>
 								</div>
 								
-
+=======
 								<div class="clearfix"> </div>
 							</div>
 						</div>
-
+>>>>>>> origin/gh-pages
 							</div>
 						</div>
 					</div>
