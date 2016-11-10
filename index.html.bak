@@ -3,7 +3,11 @@
 <html class=" js flexbox flexboxlegacy rgba multiplebgs backgroundsize borderradius boxshadow textshadow opacity cssgradients csstransforms csstransforms3d csstransitions generatedcontent svg inlinesvg" lang="en" style=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <![endif]-->
+<<<<<<< HEAD
 <title>Ralph Millard / Creative Director - Product Designer</title>
+=======
+<title>乔萌的个人主页</title>
+>>>>>>> origin/gh-pages
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="author" content="Ralph Millard">
 <meta name="Description" content="Ralph Millard, Product Designer &amp; Creative Director&lt;/i&gt; based in Orlando, FL. I love working with creative people and inspiring brands.">
@@ -1936,8 +1940,13 @@ if (document.URL.indexOf("tv.sohu.com") >= 0){
   <!-- start main nav -->
   <nav id="main-nav">
     <ul id="options" class="option-set clearfix" data-option-key="filter">
+<<<<<<< HEAD
       <li> <a href="http://ralphmillard.com/#home" class="splink selected">Home</a> </li>
       <li> <a href="http://ralphmillard.com/#contact" class="splink">Contact</a> </li>
+=======
+      <li> <a href="index.html" class="splink selected">Home</a> </li>
+      <li> <a href="myResume/myResume.html" class="splink">Contact</a> </li>
+>>>>>>> origin/gh-pages
     </ul>
         <!-- <ul class="sub-nav hidden">
           <li> <a href="#portfolio">All (7)</a> </li>
@@ -1952,12 +1961,15 @@ if (document.URL.indexOf("tv.sohu.com") >= 0){
     </ul> -->
   </nav>
   <!-- end main nav -->
+<<<<<<< HEAD
   <ul class="social-list clearfix">
     <li> <a href="https://www.linkedin.com/in/ralphmillard0330"><i class="fa fa-linkedin"></i>DDD</a></li>
     <li> <a href="https://www.instagram.com/ralphmillard/"><i class="fa fa-instagram"></i></a> </li>
     <li> <a href="https://twitter.com/ralphmillard"><i class="fa fa-twitter"></i></a> </li>
     <li> <a href="https://www.facebook.com/ralphmillard"><i class="fa fa-facebook"></i></a> </li>
   </ul>
+=======
+>>>>>>> origin/gh-pages
   <div class="header-bottom">
     <p> Copyright © 2016<br>
       All rights reserved. </p>
@@ -2010,12 +2022,20 @@ if (document.URL.indexOf("tv.sohu.com") >= 0){
     </div>
     <div class="element  clearfix col1-3 home about grey with-link" style="position: absolute; left: 0px; top: 600px;"><a href="myResume/myResume.html" title="" class="whole-tile">
         <h3>我&介绍</h3>
+<<<<<<< HEAD
         </a><div class="bottom"><a href="myResume/myResume.html" title="" class="whole-tile"></a><a href="myResume/myResume.html" class="button"><i class=""></i> View My Resume</a></div>
+=======
+        </a><div class="bottom"><a href="myResume/myResume.html" title="" class="whole-tile" target="_blank"></a><a href="myResume/myResume.html" class="button"><i class=""></i> View My Resume</a></div>
+>>>>>>> origin/gh-pages
       <div class="icon-placer"><i class="fa fa-twitter"></i></div>
       </div>
     <div class="element  clearfix col1-3 home about grey with-link" style="position: absolute; left: 320px; top: 600px;"><a href="http://ralphmillard.com/" data-title="" class=""></a>
       <h3>我的 LinkedIn</h3>
+<<<<<<< HEAD
       <div class="bottom"><a href="https://www.linkedin.com/in/ralphmillard0330" target="_blank" class="button"><i class=""></i> View My LinkedIn</a></div>
+=======
+      <div class="bottom"><a href="#" target="_blank" class="button"><i class=""></i> View My LinkedIn</a></div>
+>>>>>>> origin/gh-pages
       <div class="icon-placer"><i class="fa fa-linkedin"></i></div>
     </div>
     <div class="element  clearfix col2-3 contact grey" style="position: absolute; left: 640px; top: 600px; display: none;">
