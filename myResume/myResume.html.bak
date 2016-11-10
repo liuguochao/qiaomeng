@@ -240,7 +240,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<div class="progress-bar progress-bar-striped active" style="width: 95%">
 						</div>
 					</div>
-					<h6>flash<span>60% </span></h6>
+					<h6>网页设计<span>60% </span></h6>
 					<div class="progress">
 						<div class="progress-bar progress-bar-striped active" style="width: 80%">
 						</div>
@@ -260,7 +260,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<ul class="resp-tabs-list wow fadeInUp animated" data-wow-delay=".7s">
 						<li class="resp-tab-item"><span>部分作品展示</span></li>				
 					</ul>	
-					<div class="clearfix"> </div>	
 					<div class="resp-tabs-container">
 						<div class="tab-1 resp-tab-content">
 							<div class="tab_img">
@@ -363,9 +362,105 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 										</a>	
 									</div>
 								</div>
-								<div class="clearfix"> </div>
-							</div>
-						</div>
+								<div class="col-md-4 portfolio-grids">
+									<div class="grid">
+										<a href="images/UI (1).jpg" class="swipebox">
+											<img src="images/UI (1).jpg" alt="" class="img-responsive" />
+											<div class="figcaption">
+												<h3>我的<span> 作品</span></h3>
+												<p>UI设计</p>
+											</div>
+										</a>	
+									</div>
+								</div>
+								<div class="col-md-4 portfolio-grids">
+									<div class="grid">
+										<a href="images/UI (13).jpg" class="swipebox">
+											<img src="images/UI (13).jpg" alt="" class="img-responsive" />
+											<div class="figcaption">
+												<h3>我的<span> 作品</span></h3>
+												<p>UI设计</p>
+											</div>
+										</a>	
+									</div>
+								</div>
+								<div class="col-md-4 portfolio-grids">
+									<div class="grid">
+										<a href="images/UI (15).jpg" class="swipebox">
+											<img src="images/UI (15).jpg" alt="" class="img-responsive" />
+											<div class="figcaption">
+												<h3>我的<span> 作品</span></h3>
+												<p>UI设计</p>
+											</div>
+										</a>	
+									</div>
+								</div>
+								<div class="col-md-4 portfolio-grids">
+									<div class="grid">
+										<a href="images/UI (16).jpg" class="swipebox">
+											<img src="images/UI (16).jpg" alt="" class="img-responsive" />
+											<div class="figcaption">
+												<h3>我的<span> 作品</span></h3>
+												<p>UI设计</p>
+											</div>
+										</a>	
+									</div>
+								</div>
+								<div class="col-md-4 portfolio-grids">
+									<div class="grid">
+										<a href="images/UI (17).jpg" class="swipebox">
+											<img src="images/UI (17).jpg" alt="" class="img-responsive" />
+											<div class="figcaption">
+												<h3>我的<span> 作品</span></h3>
+												<p>UI设计</p>
+											</div>
+										</a>	
+									</div>
+								</div>
+								<div class="col-md-4 portfolio-grids">
+									<div class="grid">
+										<a href="images/UI (18).jpg" class="swipebox">
+											<img src="images/UI (18).jpg" alt="" class="img-responsive" />
+											<div class="figcaption">
+												<h3>我的<span> 作品</span></h3>
+												<p>UI设计</p>
+											</div>
+										</a>	
+									</div>
+								</div>
+								<div class="col-md-4 portfolio-grids">
+									<div class="grid">
+										<a href="images/UI (19).jpg" class="swipebox">
+											<img src="images/UI (19).jpg" alt="" class="img-responsive" />
+											<div class="figcaption">
+												<h3>我的<span> 作品</span></h3>
+												<p>UI设计</p>
+											</div>
+										</a>	
+									</div>
+								</div>
+								<div class="col-md-4 portfolio-grids">
+									<div class="grid">
+										<a href="images/UI (20).jpg" class="swipebox">
+											<img src="images/UI (20).jpg" alt="" class="img-responsive" />
+											<div class="figcaption">
+												<h3>我的<span> 作品</span></h3>
+												<p>UI设计</p>
+											</div>
+										</a>	
+								</div>
+								<div class="col-md-4 portfolio-grids">
+									<div class="grid">
+										<a href="images/动与静.jpg" class="swipebox">
+											<img src="images/动与静.jpg" alt="" class="img-responsive" />
+											<div class="figcaption">
+												<h3>我的<span> 作品</span></h3>
+												<p>手绘</p>
+											</div>
+										</a>	
+									</div>
+								</div>
+								
 							</div>
 						</div>
 					</div>
